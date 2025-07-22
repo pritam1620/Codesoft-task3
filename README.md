@@ -12,15 +12,9 @@ A modern, responsive landing page for Prime Car Wash, featuring a hero section, 
 ✅ Clean & Modern UI – Simple yet professional look
 
 🖼️ Live Demo
-🔗 View Live Demo:[]
+🔗 View Live Demo:[ https://pritam1620.github.io/task2/]
 
-📂 Project Structure
-bash
-Copy
-Edit
-prime-car-wash/
-│── index.html   # Main HTML file
-└── README.md    # Project documentation
+
 🚀 How to Use
 Clone the repository
 
@@ -32,15 +26,6 @@ cd prime-car-wash
 Open in Browser
 Simply open index.html in your browser.
 
-Deploy on GitHub Pages
-
-Go to Settings → Pages in your GitHub repo
-
-Select the main branch and / (root) folder
-
-Save → Wait for GitHub to deploy
-
-Your site will be live at https://YOUR_GITHUB_USERNAME.github.io/prime-car-wash/
 
 🛠️ Tech Stack
 HTML5
